@@ -1,0 +1,6 @@
+
+=python:S125>"Remove this commented out code.(ÍäÊÚ8Ï¸î.
+Bpython:S125@"Remove this commented out code.(ˆî¸°ÿÿÿÿÿ8§ıœ¸î.
+=python:S125*"Remove this commented out code.(²‰”ó8Àªà·î.
+Dpython:S14817"%Remove the unused local variable "x".(Ï»˜8Ûıõ·î.
+mpython:S12266"IIntroduce a new variable or use its initial value before reassigning 'x'.(ßœ‰Ïûÿÿÿÿ8Ûıõ·î.
